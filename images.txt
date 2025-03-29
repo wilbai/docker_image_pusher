@@ -7,3 +7,5 @@ wurstmeister/zookeeper
 wurstmeister/kafka
 mongo
 metabase/metabase
+anapsix/alpine-java:8u202b08_jdk
+jc21/nginx-proxy-manager
